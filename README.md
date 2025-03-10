@@ -45,7 +45,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/SpringBootDataJPA-1.git
+   git clone https://github.com/Romeoparajuli/SpringBootDataJPA-1.git
    cd SpringBootDataJPA-1
    ```
 2. **Configure MySQL Database** Update `src/main/resources/application.properties` with your MySQL credentials:
